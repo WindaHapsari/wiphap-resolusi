@@ -1,6 +1,6 @@
 WiPHAP Resolusi:
   1. Konsisten upload konten 2x seminggu
   2. Membuat Website WiPHAP
-  3. Membuat Forum Diskusi 
-  4. Membuat academy IT
-  5. Kolaborasi dengan beberapa Expert IT
+  3. Membuat academy IT
+  4. Kolaborasi dengan beberapa Expert IT
+  5. Membuat podcast IT
